@@ -24,3 +24,11 @@
 ![pacman_qlearning](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/Q-Learning/figs/pac-man_qlearning.png)
 
 ![pacman_sarsa](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/Q-Learning/figs/pac-man_sarsa.png)
+
+After `10000 epochs`, pacman scored around `1200 points` on average.
+
+Q-Learning and SARSA gave almost similar performance. But on multiple runs of the code, it was observed that Q-Learning 
+performed well consistantly whereas SARSA had some variance.
+
+### Running the code
+Type `python pacman.py`
