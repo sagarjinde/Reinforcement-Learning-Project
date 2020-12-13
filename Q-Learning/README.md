@@ -21,6 +21,6 @@
 - Ghost movements are random
 
 ### Observation
-![pacman_qlearning]()
+![pacman_qlearning](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/Q-Learning/figs/pac-man_qlearning.png)
 
-![pacman_sarsa]()
+![pacman_sarsa](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/Q-Learning/figs/pac-man_sarsa.png)
