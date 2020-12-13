@@ -4,7 +4,7 @@
 
 ### Environment Design
 
-- Initial size: 3x3
+- Initial grid size: 3x3
 - Initial number of food pallets: 3
 - MDP State depents on : 
 	- pacman location
@@ -18,6 +18,7 @@
 - Pacman can move left, right, up, down
 - Pacman also has the option to not perform any moves
 - Ghost can move left, right, up, down
+- Ghost movements are random
 
 ### Observation
 ![pacman_qlearning]()
