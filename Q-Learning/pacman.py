@@ -285,7 +285,7 @@ def qLearning():
         avg_score_list.append(total_reward)
         if epoch % (epoch_count/100) == 0:
             avg_score = sum(avg_score_list)/len(avg_score_list)
-            # print(avg_score)
+            print(avg_score)
             score_list.append(avg_score)
 
     fig = plt.figure()
@@ -350,7 +350,7 @@ def sarsa():
         avg_score_list.append(total_reward)
         if epoch % (epoch_count/100) == 0:
             avg_score = sum(avg_score_list)/len(avg_score_list)
-            # print(avg_score)
+            print(avg_score)
             score_list.append(avg_score)
 
     fig = plt.figure()
