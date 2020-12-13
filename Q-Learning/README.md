@@ -3,7 +3,6 @@
 ## Pac-Man
 
 ### Environment Design
-
 - Initial grid size: 3x3
 - Initial number of food pallets: 3
 - MDP State depents on : 
@@ -32,3 +31,27 @@ performed well consistantly whereas SARSA had some variance.
 
 ### Running the code
 Type `python pacman.py`
+
+## Tic-Tac-Toe
+
+### Environment Design
+- Standard Tic-Tac-Toe environment
+- Agents can be of 3 types
+	| Name | Behaviour |
+	| ---- | --------- |
+	| Random | Actions picked randomly |
+	| Safe | Actions picked optimally | 
+	| Both | Actions picked randomly with some probability | 
+- Agent is trained for 49 epochs where in each epoch, 100 games are played
+- Agent is tested on the 50th epoch where 1000 games are played and result is recorded
+- Performance is measured by the number of wins, looses and draws
+
+### Observation
+| My Agent | Opponent Agent | #Wins | #Draws | #Losses |
+| --- | --- | --- | --- | --- |
+| Random | Random | 879 | 73 | 48 |
+| Random | Safe | 448 | 459 | 93 |
+| Safe | Random | 826 | 142 | 32 |
+| Safe | Safe | 552 | 424 | 24 |
+| Both | Random | 895 | 75 | 30 |
+| Both | Safe | 441 | 488 | 71 |

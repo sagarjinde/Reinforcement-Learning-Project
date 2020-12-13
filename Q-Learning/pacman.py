@@ -362,5 +362,5 @@ def sarsa():
     # plt.ylim(-2,10)
     plt.show()
 
-qLearning()
+# qLearning()
 sarsa()
