@@ -55,3 +55,6 @@ Type `python pacman.py`
 | Safe | Safe | 552 | 424 | 24 |
 | Both | Random | 895 | 75 | 30 |
 | Both | Safe | 441 | 488 | 71 |
+
+### Running the code
+Type `python tic-tac-toe.py`
