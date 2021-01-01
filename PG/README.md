@@ -11,8 +11,8 @@ Comparing all possible combinations of reward-to-go and advantage-normalization
 
 | reward-to-go / </br>advantage-normalization | False | True |
 | --- | --- | --- |
-| False | ![cp_FF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_FF.png) | ![cp_TF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_TF.png) |
-| True | ![cp_FT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_FT.png) | ![cp_TT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_TT.png) |
+| <b>False</b> | ![cp_FF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_FF.png) | ![cp_TF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_TF.png) |
+| <b>True</b> | ![cp_FT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_FT.png) | ![cp_TT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_TT.png) |
 
 #### Result: Best results were obtained using both reward-to-go and advantage-normalization 
 
@@ -24,8 +24,8 @@ Comparing all possible combinations of reward-to-go and advantage-normalization
 
 | reward-to-go / </br>advantage-normalization | False | True |
 | --- | --- | --- |
-| False | ![ll_FF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_FF.png) | ![ll_TF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_TF.png) |
-| True | ![ll_FT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_FT.png) | ![ll_TT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_TT.png) |
+| <b>False</b> | ![ll_FF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_FF.png) | ![ll_TF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_TF.png) |
+| <b>True</b> | ![ll_FT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_FT.png) | ![ll_TT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_TT.png) |
 
 #### Result: 
 - When both reward-to-go and advantage-normalization are True, the score curve is smooth with less variance
