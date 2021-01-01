@@ -2,7 +2,7 @@
 
 ## Mountain-Car
 
-![mountain_car](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mountain_car.gif =100x)
+![mountain_car](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mountain_car.gif =250x)
 
 ### Environment Design
 Used OpenAI Gym Environment. Refer to [wiki](https://github.com/openai/gym/wiki/MountainCar-v0) for details.
