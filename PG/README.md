@@ -9,14 +9,10 @@ Used OpenAI Gym Environment. Refer to [wiki](https://github.com/openai/gym/wiki/
 ### Observation
 Comparing all possible combinations of reward-to-go and advantage-normalization
 
-![cp_TT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_TT.png "reward-to-go: True, advantage-normalization: True") ![cp_TF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_TF.png "reward-to-go: True, advantage-normalization: False")
-
-#### reward-to-go: False, advantage-normalization: True
-![cp_FT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_FT.png)
-
-#### reward-to-go: False, advantage-normalization: False
-![cp_FF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_FF.png)
-
+|  | reward-to-go = False | reward-to-go = True |
+| --- | --- | --- |
+| advantage-normalization = False | ![cp_FF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_FF.png) | ![cp_TF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_TF.png) |
+| advantage-normalization = True | ![cp_FT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_FT.png) | ![cp_TT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_TT.png) |
 #### Result: Best results were obtained using both reward-to-go and advantage-normalization 
 
 ## LunarLander
