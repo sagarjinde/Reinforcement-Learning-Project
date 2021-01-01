@@ -1,7 +1,7 @@
 # Policy Gradient
 
 ## CartPole
-<img src="./figs/cartpole.gif" width="50%">
+<img src="./figs/cartpole.gif" width="70%">
 
 ### Environment
 Used OpenAI Gym Environment. Refer to [wiki](https://github.com/openai/gym/wiki/CartPole-v0) for details.
