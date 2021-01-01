@@ -26,4 +26,7 @@ DQN </br>
 ![mc_lr001](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mc_lr0.001.png)
 
 DDQN </br>
-![mc_ddqn](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mc_ddqn.png)  
+![mc_ddqn](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mc_ddqn.png) 
+
+## Pong 
+Due to resource limitations, i was not able to produce results.
