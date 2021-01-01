@@ -1,8 +1,7 @@
 # Policy Gradient
 
 ## CartPole
-![cartpole](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cartpole.gif)
-<ing src="https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cartpole.gif" width="100">
+![cartpole](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cartpole.gif){:height="50%" width="50%"}
 
 ### Environment
 Used OpenAI Gym Environment. Refer to [wiki](https://github.com/openai/gym/wiki/CartPole-v0) for details.
