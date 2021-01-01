@@ -16,11 +16,9 @@ Used OpenAI Gym Environment. Refer to [wiki](https://github.com/openai/gym/wiki/
 #### Result: Best performence when learning rate is 0.001 
 
 #### DQN vs DDQN
-DQN </br>
-![mc_lr001](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mc_lr0.001.png)
-
-DDQN </br>
-![mc_ddqn](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mc_ddqn.png) 
+| DQN | DDQN |
+| --- | --- |
+| ![mc_lr001](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mc_lr0.001.png) | ![mc_ddqn](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mc_ddqn.png) |
 
 ## Pong 
 Due to resource limitations, i was not able to produce results.
