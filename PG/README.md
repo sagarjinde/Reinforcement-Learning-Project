@@ -13,6 +13,7 @@ Comparing all possible combinations of reward-to-go and advantage-normalization
 | --- | --- | --- |
 | False | ![cp_FF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_FF.png) | ![cp_TF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_TF.png) |
 | True | ![cp_FT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_FT.png) | ![cp_TT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_TT.png) |
+
 #### Result: Best results were obtained using both reward-to-go and advantage-normalization 
 
 ## LunarLander
@@ -25,3 +26,8 @@ Comparing all possible combinations of reward-to-go and advantage-normalization
 | --- | --- | --- |
 | False | ![ll_FF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_FF.png) | ![ll_TF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_TF.png) |
 | True | ![ll_FT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_FT.png) | ![ll_TT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_TT.png) |
+
+#### Result: 
+- When both reward-to-go and advantage-normalization are True, the score curve is smooth with less variance
+- When reward-to-go is False, it takes more time to solve the problem
+- Best results were obtained using both reward-to-go and advantage-normalization
