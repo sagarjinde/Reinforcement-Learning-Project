@@ -14,7 +14,7 @@ Comparing all possible combinations of reward-to-go and advantage-normalization
 | <b>False</b> | ![cp_FF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_FF.png) | ![cp_TF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_TF.png) |
 | <b>True</b> | ![cp_FT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_FT.png) | ![cp_TT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_TT.png) |
 
-#### Result: Best results were obtained using both reward-to-go and advantage-normalization 
+**Result:** Best results were obtained using both reward-to-go and advantage-normalization 
 
 ## LunarLander
 ![lunarlander](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/lunarlander.gif)

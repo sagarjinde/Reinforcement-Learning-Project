@@ -2,7 +2,7 @@
 
 ## Mountain-Car
 
-![mountain_car](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mountain_car.gif)
+<img src="./figs/mountain_car.gif" width="50%">
 
 ### Environment Design
 Used OpenAI Gym Environment. Refer to [wiki](https://github.com/openai/gym/wiki/MountainCar-v0) for details.
@@ -10,15 +10,9 @@ Used OpenAI Gym Environment. Refer to [wiki](https://github.com/openai/gym/wiki/
 ### Observations
 ####Comparing various learning rates
 
-Learning Rate = 0.001 </br>
-![mc_lr001](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mc_lr0.001.png)
-
-Learning Rate = 0.01 </br>
-![mc_lr01](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mc_lr0.01.png)
-
-Learning Rate = 0.1 </br>
-![mc_lr1](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mc_lr0.1.png)
-
+| Learning Rate / </br>Images | 0.001 | 0.01 | 0.1 |
+| --- | --- | --- | --- |
+| ![mc_lr001](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mc_lr0.001.png) | ![mc_lr01](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mc_lr0.01.png) | ![mc_lr1](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/DQN/figs/mc_lr0.1.png) |
 #### Result: Best performence when learning rate is 0.001 
 
 #### DQN vs DDQN
