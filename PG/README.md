@@ -2,6 +2,7 @@
 
 ## CartPole
 ![cartpole](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cartpole.gif)
+<ing src="https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cartpole.gif" width="100">
 
 ### Environment
 Used OpenAI Gym Environment. Refer to [wiki](https://github.com/openai/gym/wiki/CartPole-v0) for details.
@@ -9,7 +10,7 @@ Used OpenAI Gym Environment. Refer to [wiki](https://github.com/openai/gym/wiki/
 ### Observation
 Comparing all possible combinations of reward-to-go and advantage-normalization
 
-| reward-to-go / advantage-normalization | False | True |
+| reward-to-go / </br>advantage-normalization | False | True |
 | --- | --- | --- |
 | False | ![cp_FF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_FF.png) | ![cp_TF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_TF.png) |
 | True | ![cp_FT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_FT.png) | ![cp_TT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/cp_TT.png) |
@@ -21,7 +22,7 @@ Comparing all possible combinations of reward-to-go and advantage-normalization
 ### Observation
 Comparing all possible combinations of reward-to-go and advantage-normalization
 
-| reward-to-go / advantage-normalization | False | True |
+| reward-to-go / </br>advantage-normalization | False | True |
 | --- | --- | --- |
 | False | ![ll_FF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_FF.png) | ![ll_TF](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_TF.png) |
 | True | ![ll_FT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_FT.png) | ![ll_TT](https://github.com/sagarjinde/Reinforcement-Learning-Project/blob/master/PG/figs/ll_TT.png) |
