@@ -24,4 +24,4 @@ Used OpenAI Gym Environment. Refer to [wiki](https://github.com/openai/gym/wiki/
 
 ## Pong 
 <img src="./figs/pong.gif">
-Due to resource limitations, i was not able to produce results.
+Due to resource limitations, i was not able to run my code.
